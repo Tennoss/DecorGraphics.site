@@ -1,0 +1,6 @@
+Zakaz kopiowania kodu strony!
+Wszelkie próby bêd¹ skutkowa³y rozszczeniami prawnymi!
+
+U¿yte pomoce:
+Bootstrap4
+DecorGraphics.site

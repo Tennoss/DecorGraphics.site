@@ -1,0 +1,153 @@
+.x { 
+    
+    background-color: aqua;
+    width: 100%;
+    height: 1000px;
+    
+}
+
+.x1 { 
+    
+    background-color: crimson;
+    width: 100%;
+    height: 1000px;
+    
+}
+
+.x2 { 
+    
+    background-color: mediumaquamarine;
+    width: 100%;
+    height: 1000px;
+    
+}
+
+.x3 { 
+    
+    background-color: dodgerblue;
+    width: 100%;
+    height: 1000px;
+    
+}
+
+#main-nav-text {
+    
+    margin-left: 50px;
+    font-size: 25px;
+    font-weight: 300;
+}
+
+#nav-margin-right {
+    margin-right: 50px;
+    
+}
+
+.htmlbox {
+    width: 250px;
+    height: 250px;
+    background-color: grey;
+    float: left;
+}
+.javascriptbox {
+    width: 250px;
+    height: 250px;
+    background-color: grey;
+    float: left;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.javabox {
+    width: 250px;
+    height: 250px;
+    background-color: grey;
+    float: left;
+}
+
+#pierwszasekcja {
+    background-color: aqua;
+    margin-top: 16.5%;
+    margin-left: 27.5%;
+}
+
+.centertext {
+    font-size: 35px;
+    font-family: inherit;   
+    margin-left: 31%;
+}
+
+.centertext1 {
+    font-size: 35px;
+    font-family: inherit;   
+    margin-left: 17.5%;
+}
+
+.centertext2 {
+    font-size: 35px;
+    font-family: inherit;   
+    margin-left: 34.5%;
+}
+
+.navbar-a{
+    background-color: rgb(235, 68, 42);
+}
+
+.boxone {
+    width: auto;
+    height: 600px;
+    
+}
+
+.textone {
+    margin-top: 3000px;
+    font-size: 30px;
+    
+}
+
+body {
+    
+}
+
+.text {
+    font-size: 100px;
+    margin-bottom: 0px;
+    font-weight: 500;
+    color: white;
+}
+
+.textalpha {
+    font-size: 40px;
+    line-height: 0em;
+    margin-top: 0px;
+    color: white;
+}
+
+#seleuno {
+    padding-top: 300px;
+    background-image: url("https://images.wallpaperscraft.com/image/bird_silhouette_vector_134154_1920x1080.jpg");
+    padding-bottom: 300px;
+}
+
+.mainclass {
+    background-color: rgb(38, 38, 38);
+}
+
+.divv {
+    height: 50px;
+    width: 100%;
+    background-color: rgb(235, 68, 42);
+    empty-cells: show;
+}
+
+.textwhite {
+    color: white;
+    padding-top: 50px;
+}
+
+.textwhiteone {
+    color: white;
+}
+
+.redcard {
+    background-color: rgb(235, 68, 42);
+}
